@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    height: 100vh;
+}
+.container {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    border: 1px solid red;
+}
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: linear-gradient(0deg,
+    rgb(47,102,255),
+    rgb(153,64,255) 30%,
+    rgb(238,55,255) 60%,
+    rgb(255,0,76) 100%);
+    animation: rotate 1s linear infinite;
+}
+.circle::before {
+    content: "";
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: linear-gradient(0deg,
+    rgb(47,102,255),
+    rgb(153,64,255) 30%,
+    rgb(238,55,255) 60%,
+    rgb(255,0,76) 100%);
+    filter: blur(35px);
+}
+.circle::after {
+    content: "";
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #000;}
+span {
+    position: absolute;
+    color: #fff;
+}
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }   
+    100% {
+        transform: rotate(360deg);
+    }
+}
