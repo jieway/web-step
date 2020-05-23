@@ -2,7 +2,7 @@
 
 如果在国内图片加载不出来的话，可以考虑查看这个[回答](https://www.zhihu.com/question/32885190/answer/1222916367)
 # demo-01 登陆界面
-效果：
+效果： 
 <img src="demo-01/demo-01.gif" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1fE411b7Fv)
