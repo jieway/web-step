@@ -1,5 +1,6 @@
 <a href="https://github.com/weijiew/web-step"><img src="https://img.shields.io/github/stars/weijiew/web-step?color=%238e44ad&label=github&logoColor=%236c5ce7&style=social"></a>
 
+如果在国内图片加载不出来的话，可以考虑查看这个[回答](https://www.zhihu.com/question/32885190/answer/1222916367)
 # demo-01 登陆界面
 效果：
 <img src="demo-01/demo-01.gif" width="500" >
