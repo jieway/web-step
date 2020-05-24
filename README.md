@@ -18,7 +18,7 @@ https://codeload.github.com/weijiew/web-step/zip/master
 
 # demo-01 登陆界面
 效果： 
-<img src="demo-01/demo-01.gif" width="500" >
+<img src="docs/demo-01/demo-01.gif" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1fE411b7Fv)
 
@@ -28,35 +28,35 @@ https://codeload.github.com/weijiew/web-step/zip/master
 
 # demo-03 图标+果冻效果
 
-<img src="demo-03/果冻.gif" width="500" >
+<img src="docs/demo-03/果冻.gif" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1e7411y75m)
 
 # demo-04 打字机hover效果
 效果：
-<img src="demo-04/demo-04.gif" width="500" >
+<img src="docs/demo-04/demo-04.gif" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1bz411b7j7)
 
 
 # demo-05 爱心
-<img src="demo-05/demo-05.gif" width="500" >
+<img src="docs/demo-05/demo-05.gif" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1ba4y1475n)
 
 # demo-06 登陆界面
-<img src="demo-06/demo-06.png" width="500" >
+<img src="docs/demo-06/demo-06.png" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1tA411h7id/)
 
 # demo-07 搜索框
-<img src="demo-07/demo-07.gif" width="500" >
+<img src="docs/demo-07/demo-07.gif" width="500" >
 
 # demo-08 信封
-<img src="demo-08/demo-08.gif" width="500" >
+<img src="docs/demo-08/demo-08.gif" width="500" >
 
 # demo-09 圆环
-<img src="demo-09/demo-09.gif" width="500" >
+<img src="docs/demo-09/demo-09.gif" width="500" >
 
 [来源](https://www.bilibili.com/video/BV1Pf4y127tU)
 
