@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-size: "Open Sans",sans-serif;
 }
 body{
     width: 100%;
@@ -24,6 +25,12 @@ body{
     flex-direction: column;
     align-items: center;
     align-content: center;
+    width: 100px;
+    height: 140px;
+    margin: 20px;
+}
+
+.container .title {
     width: 100px;
     height: 140px;
     margin: 20px;
@@ -60,3 +67,31 @@ body{
     width: 58px;
     transition: width 0.2s ease-out;
 }
+
+.box:hover {
+    animation:rubberBand 1s;
+}
+.text:hover {
+    animation:rubberBand 1s;
+}
+
+@keyframes rubberBand {
+    0% {
+        transform: scale3d(1,1,1);
+    }
+    35% {
+        transform: scale3d(1.25,.75,1);
+    }
+    45% {
+        transform: scale3d(.75,1,1);
+    }
+    60% {
+        transform: scale3d(1.2,.8,1);
+    }
+    75% {
+        transform: scale3d(1.05,.95,1);
+    }
+    100% {
+        transform: scale3d(1,1,1);
+    }
+}        
