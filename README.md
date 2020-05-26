@@ -1,3 +1,4 @@
+[![](https://img.shields.io/github/license/weijiew/web-step)](https://github.com/weijiew/web-step/blob/master/LICENSE)
 <a href="https://github.com/weijiew/web-step"><img src="https://img.shields.io/github/stars/weijiew/web-step?color=%238e44ad&label=github&logoColor=%236c5ce7&style=social"></a>
 
 [github pages](https://weijiew.com/web-step/) 在线版。gif 太大容易加载不出来，代码都在 docs 文件中。
@@ -62,8 +63,12 @@ https://codeload.github.com/weijiew/web-step/zip/master
 [来源](https://www.bilibili.com/video/BV1Pf4y127tU)
 
 # 声明
+
+
 仅供学习参考，这个本人在学习 html/css/js 时发现的比较好看的项目，收集了起来，参考链接的 up 主大多也是搬运别人的，出处不详，如果侵犯到了您的权益，请联系我 (jiewei1999@qq.com) ，我将立刻删除。
 
 
 # 更新
 > update 2020/5/24 增加了 [github pages](https://weijiew.com/web-step/) 页面 图标正在精心筛选。 
+> update 2020/5/26 调整格式，怎加 icon
+
