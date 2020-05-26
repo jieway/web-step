@@ -1,6 +1,8 @@
 <a href="https://github.com/weijiew/web-step"><img src="https://img.shields.io/github/stars/weijiew/web-step?color=%238e44ad&label=github&logoColor=%236c5ce7&style=social"></a>
 
-[github pages](https://weijiew.com/web-step/) 在线版。 代码都在 docs 文件中。
+[github pages](https://weijiew.com/web-step/) 在线版。gif 太大容易加载不出来，代码都在 docs 文件中。
+
+如果图片加载不出来也可以考虑查看这个[回答](https://www.zhihu.com/question/32885190/answer/1222916367) 
 
 # 下载方式
 
@@ -14,7 +16,6 @@ git clone https://github.com/weijiew/web-step.git
 https://codeload.github.com/weijiew/web-step/zip/master
 ```
 
-如果在国内图片加载不出来的话，可以考虑查看这个[回答](https://www.zhihu.com/question/32885190/answer/1222916367)
 
 # demo-01 登陆界面
 效果： 
