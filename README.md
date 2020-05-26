@@ -3,7 +3,7 @@
 [github pages](https://weijiew.com/web-step/) 在线版。gif 太大容易加载不出来，代码都在 docs 文件中。
 
 如果图片加载不出来也可以考虑查看这个[回答](https://www.zhihu.com/question/32885190/answer/1222916367) 
-
+ 
 # 下载方式
 
 可以使用 git bash 直接 clone 本厂库。
