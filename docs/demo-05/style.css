@@ -1,6 +1,6 @@
 body {
     height: 100vh;
-    background: #000;
+    background: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,6 +15,7 @@ li {
     border-radius: 10px;
     background: red;
     margin-right: 20px;
+    list-style: none;
 }
 li:nth-child(1) {
     background: red;
