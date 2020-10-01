@@ -1,9 +1,4 @@
-[![](https://img.shields.io/github/license/weijiew/web-step)](https://github.com/weijiew/web-step/blob/master/LICENSE)
-<a href="https://github.com/weijiew/web-step"><img src="https://img.shields.io/github/stars/weijiew/web-step?color=%238e44ad&label=github&logoColor=%236c5ce7&style=social"></a>
-
-[github pages](https://weijiew.com/web-step/) 在线版。gif 太大容易加载不出来，代码都在 docs 文件中。
-
-如果图片加载不出来也可以考虑查看这个[回答](https://www.zhihu.com/question/32885190/answer/1222916367) 
+[github pages](https://weijiew.com/web-step/) 
   
 # 下载方式
 
@@ -25,5 +20,4 @@ https://codeload.github.com/weijiew/web-step/zip/master
 
 # 更新
 > update 2020/5/24 增加了 [github pages](https://weijiew.com/web-step/) 页面 图标正在精心筛选。 
-> update 2020/5/26 调整格式，怎加 icon
-
+> update 2020/5/26 调整格式，添加 icon 。
