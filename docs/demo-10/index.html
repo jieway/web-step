@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Note</title>
+</head>
+<body>
+
+    <div id="app">
+
+        <input v-model="temp" @keyup.enter="add" placeholder="请输入：">
+
+        <div v-for="(list, index) in lists">
+            <span>{{ list }}</span>
+            <button @click="remove(index)"> delete</button>
+        </div>
+    
+        <div>总数: {{ lists.length }}</div>
+        <!-- <button @click="del" v-show="lists.length != 0"> delete all</button> -->
+
+        <button @click="del" v-if="lists.length != 0"> delete all</button>
+    </div>
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script>
+        var a = new Vue({
+            el: '#app',
+            data: {
+                lists: ["a1","a2","a3","a4","a5","a6"],
+                temp: ""
+            },
+
+            methods: {
+
+                add: function(){
+                    this.lists.push(this.temp);
+                    this.temp = "";
+                },
+
+                remove: function(index){
+                    this.lists.splice(index, 1);
+                },
+
+                del: function(){
+                    this.lists = [];
+                }
+            }
+        })
+    
+    </script>
+</body>
+</html>
