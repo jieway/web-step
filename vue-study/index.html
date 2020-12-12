@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <div id="mask">
+
+        <button value="上一张" @click="prev">上一张</button>
+        <button value="下一张" @click="next">下一张</button>
+        <img :src="imglist[index]" alt=""/>
+
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> 
+    <script>
+
+    var app = new Vue({
+        el: '#mask',
+        data: {
+            index: 0,
+            imglist: [
+                "images/p0.jpg",
+                "images/p1.jpg",
+                "images/p2.jpg",
+                "images/p3.jpg",
+                "images/p4.jpg"
+            ]
+        },
+
+        methods: {
+            prev:function(){
+                    this.index--;
+            },
+            next:function(){
+                    this.index++;
+            }
+        }
+    })
+
+    </script>
+</body>
+</html>

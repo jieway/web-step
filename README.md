@@ -1,5 +1,7 @@
-[github pages](https://weijiew.com/web-step/) 
-  
+# 查看
+
+[![GitPage](https://img.shields.io/badge/GitPagePage-webstep-blueviolet?style=for-the-badge&logo=github&color=fd79a8)](https://weijiew.com/web-step/)
+
 # 下载方式
 
 可以使用 git bash 直接 clone 本厂库。
@@ -11,6 +13,14 @@ git clone https://github.com/weijiew/web-step.git
 ```bash
 https://codeload.github.com/weijiew/web-step/zip/master
 ```
+
+# Vue 练手项目
+
+零基础，根据这几个练手项目可直接学习到相关知识。提供了完整的教程以及参考视频。
+
+Learn by doing！
+
+1. [vue 记事本开发](vue-study/1-note/README.md)
 
 # 声明
 
